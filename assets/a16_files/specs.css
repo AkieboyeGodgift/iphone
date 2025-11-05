@@ -1,0 +1,56 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+.section-size-and-weight .image-dimensions-iphone { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone__c50mrkxiyeuu_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-size-and-weight .image-dimensions-iphone { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone__c50mrkxiyeuu_large_2x.jpg); }
+}
+@media only screen and (max-width:1068px) {
+  .section-size-and-weight .image-dimensions-iphone { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone__c50mrkxiyeuu_medium.jpg); }
+}
+@media only screen and (max-width:1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+  .section-size-and-weight .image-dimensions-iphone { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone__c50mrkxiyeuu_medium_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .section-size-and-weight .image-dimensions-iphone { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone__c50mrkxiyeuu_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .section-size-and-weight .image-dimensions-iphone { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone__c50mrkxiyeuu_small_2x.jpg); }
+}
+.section-size-and-weight .image-dimensions-iphone-plus { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone_plus__dudb5pikhxw2_large.jpg); }
+@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min-resolution:1.5dppx) {
+  .section-size-and-weight .image-dimensions-iphone-plus { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone_plus__dudb5pikhxw2_large_2x.jpg); }
+}
+@media only screen and (max-width:1068px) {
+  .section-size-and-weight .image-dimensions-iphone-plus { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone_plus__dudb5pikhxw2_medium.jpg); }
+}
+@media only screen and (max-width:1068px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:1068px)and (min-resolution:1.5dppx),only screen and (max-width:1068px)and (min-resolution:144dpi) {
+  .section-size-and-weight .image-dimensions-iphone-plus { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone_plus__dudb5pikhxw2_medium_2x.jpg); }
+}
+@media only screen and (max-width:734px) {
+  .section-size-and-weight .image-dimensions-iphone-plus { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone_plus__dudb5pikhxw2_small.jpg); }
+}
+@media only screen and (max-width:734px)and (-webkit-min-device-pixel-ratio:1.5),only screen and (max-width:734px)and (min-resolution:1.5dppx),only screen and (max-width:734px)and (min-resolution:144dpi) {
+  .section-size-and-weight .image-dimensions-iphone-plus { background-image:url(/euro/iphone-15/a/screens_alt/images/specs/dimensions_iphone_plus__dudb5pikhxw2_small_2x.jpg); }
+}
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 
